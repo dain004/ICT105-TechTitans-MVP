@@ -1,5 +1,6 @@
 # ICT105-TechTians-MVP
 # Project Name
+PeerTutor – Student-to-Student Tutoring Marketplace 
 ## Course Information
 Course Code: ICT105
 Course Name: Fundamental Technology Entrepreneurship
@@ -43,7 +44,9 @@ Possible technologies:
 | Lab 1 | Lab setup and idea log | Repository, team profile, initial idea log | Completed |
 | Lab 2 | Opportunity scanning and idea evaluation | Problem analysis, NUF scoring matrix, selected IT venture idea, updated README and weekly progress log | Completed |
 ## Current Status
-In Lab 02, we reviewed six possible IT opportunities, scored them using NUF, and selected one semester project idea, updated the README and weekly log book.
+1. Reviewed the three project ideas from Lab 1 and discussed their strengths and weaknesses.
+2. Identified six IT opportunities and evaluated them using the NUF (New, Useful, Feasible) scoring method.
+3. Selected the most suitable opportunity for our semester project and mapped it to a feasible technology implementation path.
 ## Next Step
-In Lab 03, we will prepare customer discovery questions and collect evidence from target users.
+In Lab 03, our team will conduct customer problem discovery by interviewing university students who have searched for tutors or provided tutoring services. We will collect information about their current methods, challenges, and expectations to validate whether PeerTutor solves a real problem and identify the most important features for the MVP.
 
