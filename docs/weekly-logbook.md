@@ -40,11 +40,12 @@ We decided not to select MindSpace – Student Mental Wellness Platform as our s
 2. The NUF scoring method helps teams compare ideas objectively instead of choosing based only on personal preference. 
 3. Considering technical feasibility early in the planning stage helps ensure that a project can be completed within the semester. 
 ### Evidence of Work
-- Opportunity scan file:
-- NUF scoring file:
-- Selected opportunity file:
-- GitHub issue screenshot:
-- Commit link:
+- Opportunity scan file: https://github.com/dain004/ICT105-TechTitans-MVP/blob/main/docs/opportunity-scan.md 
+- NUF scoring file: https://docs.google.com/spreadsheets/d/1fyp2AzM6Skd3PzWwbtKtwwQOMJKI6c5FQz8kiND5d6g/edit?usp=sharing 
+- Selected opportunity file: https://github.com/dain004/ICT105-TechTitans-MVP/blob/main/docs/selected-opportunity.md 
+- GitHub issue screenshot: <img width="1920" height="1080" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/36360ac5-943f-437c-a94a-3a0187e2456a" />
+
+- Commit link: https://github.com/dain004/ICT105-TechTitans-MVP/commits/main/ 
 ### Plan for Lab 03
 In Lab 03, our team will conduct customer problem discovery by interviewing university students who have searched for tutors or provided tutoring services. We will collect information about their current methods, challenges, and expectations to validate whether PeerTutor solves a real problem and identify the most important features for the MVP. 
 
